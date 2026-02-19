@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Indique à Google le plan de ton nouveau site High-Tech
+Sitemap: https://contactnowone-dev.github.io/pc-ai-expert/sitemap.xml
